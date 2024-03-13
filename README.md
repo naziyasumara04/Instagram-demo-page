@@ -8,4 +8,4 @@ This project simulates the user interface of an Instagram demo page, displaying 
 
 By applying the routing concepts,you can access it by simply changing routes:Ex. http://localhost:3000/ig/cats or http://localhost:3000/ig/dogs 
 
-Contributions to improve the code or add new features are welcome. If you'd like to contribute,
+Contributions to improve the code or add new features are welcome. If you'd like to contribute.
